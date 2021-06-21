@@ -5,7 +5,7 @@ Exploratory Data Analysis on Weather Dataset and Dashboard creation using Pywedg
 
 **1) What is this repository about?**
 
-This repository is contains EDA on Weather Dataset and creation of Dashboard using Pywedge 0.5.1.8 Python package.
+This repository contains EDA on Weather Dataset and creation of Dashboard using Pywedge 0.5.1.8 Python package.
 It includes the jupyter notebook (.ipynb), .csv file and a readme.
 
 **2) Which dataset has been used and where to find it?**
